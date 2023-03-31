@@ -5,7 +5,7 @@ stable-diffusion-webui, AI,Beautiful girl
 # project
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
-# colab
+# colab, online do it
 https://colab.research.google.com/drive/1Fj9LdDVB2SZyDH2y8nPRNkxu1j9J4a1z?authuser=1
 
 # key
