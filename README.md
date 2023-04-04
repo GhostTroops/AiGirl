@@ -1,7 +1,7 @@
 # AiGirl
 stable-diffusion-webui, AI,Beautiful girl
 
-https://drive.google.com/drive/folders/1zGT0mZr_ov0q3s9sw2zoIOxGE-5kgQAo?usp=sharing
+https://colab.research.google.com/drive/1Fj9LdDVB2SZyDH2y8nPRNkxu1j9J4a1z?authuser=3#scrollTo=T9c0Rwc0BPBl
 
 <img width="1050" alt="image" src="https://user-images.githubusercontent.com/129252298/228781828-89e8a8b4-371c-4d33-8ad4-066953aba041.png">
 
